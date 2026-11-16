@@ -40,7 +40,7 @@ Try to recycle and reuse wherever possible! Plan how many colours you’d like t
 
 It will create a PDF showing the data for a chosen UK location. You can choose the time period, how many colours to use and the latitude and longitude of your chosen location.
 
-{{< button color="success" href="https://ceda-wps-ui.ceda.ac.uk/processes/execute?wps=5e6034da78814bcbbaed686b9dc4d375&process=PlotClimateStripesGlobal" button-size="sm" >}} Create personalised climate stripes for anywhere in the world! {{< /button >}}
+{{< button color="success" href="https://ceda-wps-ui.ceda.ac.uk/processes/execute?wps=compliance_checker&process=PlotClimateStripesGlobal" button-size="sm" >}} Create personalised climate stripes for anywhere in the world! {{< /button >}}
 
 This tool functions the same but can be used for any country, not just the UK.
 
@@ -73,13 +73,6 @@ Crochet
 {{< image src="img/outreach/crochet-stripe.jpeg" caption="You could also crochet an **extra** warm warming stripes scarf!" >}}
 
 ### Resources to support this activity
-
-<iframe
-  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS-hL1JF_xeKf_XWeRdI_zy90nqdUeWsf-qb4EvCjGHdoLGZHjdawBUqE1Jwn6dDI9ObOEEhXaXA_gk/pubhtml?gid=0&single=true&widget=true&headers=false"
-  width="100%"
-  height="600"
-  frameborder="0">
-</iframe>
 
 #### Don't know if you can make a difference?
 

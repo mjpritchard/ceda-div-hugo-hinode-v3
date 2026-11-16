@@ -14,13 +14,13 @@ We are making good progress with recovering data back into the Archive and have 
 
 We identified over 790TB of CMIP6 data to be available via our ongoing collaboration through the Earth System Grid Federation. We worked with the USA's {{< link href = "https://www.ornl.gov/" >}} Oak Ridge National Laboratory {{< /link >}} to transfer the data {{< link href="https://help.jasmin.ac.uk/docs/data-transfer/globus-transfers-with-jasmin/" >}} using Globus {{< /link >}} - an online data transfer service designed specifically for moving large datasets between research institutions.
 
-Using Globus, we achieved an astonishing transfer rate of 8.1 GB per second, sustained over the 27 hours to bring over the 1.4 million files. In old-money, that's equivalent to watching an entire Blu-ray DVD per second!
+Using Globus, we achieved an astonishing transfer rate of 8.1 GB per second, sustained over the 27 hours to bring over the 1.4 million files. In old-money, that's equivalent to watching an entire blue ray DVD per second!
 
 These incredibly fast speeds were achieved by using JASMIN's Globus data transfer service which uses 5 high-performance data transfer nodes located in a special "Data Transfer Zone" of the network to optimise throughput. The specialist system architecture at each institution, enables highly parallel, "friction-free" transfers.
 
 The transfer of this data into a holding location then allowed for checks to be computed locally on JASMIN and compared to the data catalogue records. The final movement of data to user-accessible archive locations is still in progress.
 
-{{< image src="img/news/2025/2025-12-19-incident-xmas-update/incident-globus-transfer.png" caption="The central section of this graph shows the network traffic into the five data transfer notes during the period of the CMIP6 data transfer from Oak Ridge National Laboratory to JASMIN, compared to their normal, background levels of user data transfers." >}}
+{{< image src="../../../img/news/2025/2025-12-19-incident-xmas-update/incident-globus-transfer.png" caption="The central section of this graph shows the network traffic into the five data transfer notes during the period of the CMIP6 data transfer from Oak Ridge National Laboratory to JASMIN, compared to their normal, background levels of user data transfers." >}}
 
 A further 100+ TB of CMIP6 data has been transferred from European sites. This was available via HTTP, with an overall transfer rate of approximately 0.5 GB per second - showing a stark difference between the Globus transfer rates.
 
